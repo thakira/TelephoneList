@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"phonelist","l":"TelephoneEntry"},{"p":"phonelist","l":"TelephoneList"},{"p":"phonelist","l":"TelephoneListSpec"},{"p":"phonelist","l":"TelephoneTester"}]

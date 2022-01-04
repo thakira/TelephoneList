@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"MyArrayList"},{"p":"<Unnamed>","l":"MyArrayListTester"}]
